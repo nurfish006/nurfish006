@@ -1,35 +1,23 @@
 # Nurahmed Jibril
-### UI/UX Designer & Software Developer
+### UI/UX Designer & Developer | Cybersecurity Enthusiast
 
-📧 jibrilnurahmed34@gmail.com | 📞 +251 934 947 686 | 🌍 Addis Ababa, Ethiopia
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-FF5722?style=flat)](https://nurahmedjibril.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/🔗_LinkedIn-0077B5?style=flat)](https://www.linkedin.com/in/nurahmed-jibril)
+[![Email](https://img.shields.io/badge/📧_Email-D14836?style=flat)](mailto:jibrilnurahmed34@gmail.com)
 
-## 👨‍💻 About Me
-Computer Engineering graduate passionate about creating digital experiences. Currently working as a Junior SOC Analyst & Pentesting Specialist while developing web applications.
+## 🚀 About
+Computer Engineer specializing in:
+- UI/UX Design (Figma, Prototyping)
+- Web Development (MERN Stack)
+- Cybersecurity (SOC Analysis)
 
-- 🎨 2+ years UI/UX Design experience
-- 💻 MERN Stack Developer
-- 🔒 Cybersecurity enthusiast
+Currently Junior SOC Analyst @ Tsehay Bank
 
-## 🛠 Skills
-**Design:** Figma, UX Research, Prototyping  
-**Frontend:** React, Next.js, Tailwind CSS  
+## 💻 Tech Stack
+**Frontend:** React, Next.js, Tailwind  
 **Backend:** Node.js, Express  
-**Database:** MongoDB, PostgreSQL  
-**Security:** Kali Linux, Metasploit, Wireshark  
-
-## 💼 Experience
-**Junior SOC Analyst** @ Tsehay Bank  
-`Present` | Security audits, incident response  
-
-**UI/UX Designer** @ RCNDC Consultancy  
-`3 months` | Client projects, user research  
-
-**Full-Stack Developer** @ Boost Software  
-`4 months` | Built LMS system  
-
-## 🎓 Education
-BSc in Computer Engineering  
-Bahir Dar University `2018-2023`
+**Design:** Figma, UX Research  
+**Security:** Kali Linux, Wireshark  
 
 ## 🔗 Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
