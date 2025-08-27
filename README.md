@@ -1,5 +1,5 @@
 # Nurahmed Jibril
-### UI/UX Designer & Developer | Cybersecurity Enthusiast
+### UI/UX Designer | Full-stack Developer | Cybersecurity Enthusiast
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-FF5722?style=flat)](https://nurahmedjibril.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/🔗_LinkedIn-0077B5?style=flat)](https://www.linkedin.com/in/nurahmed-jibril)
